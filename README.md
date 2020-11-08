@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- My name is Parth Patel
+- I am Parth Patel
 - I am a new web developer trained in producing full-stack web applications, from front-end HTML, CSS and Javascript to Express server and databases.
 
-## my contect
+## My Contect
 
 - [linkedIn](https://www.linkedin.com/in/parth-patel-4725381b5/)
-- [email](Email: parthpatel167@gmail.com)
+- parthpatel167@gmail.com
 
 ## Links to My resume
 
